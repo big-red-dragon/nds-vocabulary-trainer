@@ -1,0 +1,564 @@
+﻿#Tahoma,0,9,5,50,0,0,0,0,0
+#Kozuka Gothic Pro R,0,15,5,50,0,0,0,0,0
+#Microsoft YaHei,0,9,5,50,0,0,0,0,0
+Schiebetür	戸 	と
+erschöpft sein	くたびれる
+herabhängen, baumeln		ぶらさがる
+abmagern	痩せ細る 	やせほそる
+Mumie	ミイラ
+im Sterben liegen	死にかける 	しにかける
+sich verwandeln	化す 	かす
+angezündet werden	ともる
+(Holz)Maserung	木目 	もくめ
+gigantisch	巨大 	きょだい
+anschwellen	もりあがる
+schlängelnd	うねうねと
+in einer Reihe		ずらりと
+handgemacht	手製の 	てせいの
+Nagel	釘 	くぎ
+Zeit, Jahre	歳月 	さいげつ
+Diele		床板 	ゆかいた
+glatt	滑らか 	なめらか
+gleich nachdem	…なり
+(Stimme) erheben	荒げる 	あらげる
+auf der Stelle	たちまち
+Leute, Gesellen	連中 	れんぢゅう
+den Winter überstehen	冬を越す 	ふゆをこす
+sich sorgen	気に掛ける 	きにかける
+blass	青ざめた 	あおざめた
+Wohltat erweisen	恵む 	めぐむ
+Jalousie	鎧戸 	よろいど
+schnell, plötzlich	すっと
+Tür	扉 	とびら
+Festhalten		おさえる
+Stock	棒切れ 	ぼうきれ
+Lumpen	ぼろ
+
+fliegen, springen,\nhüpfen	飛び移る	とびうつる
+Opfer	被害者	ひがいしゃ
+Schrei (um Hilfe)	悲鳴	ひめい
+angelaufen kommen	駆け付ける	かけつける
+Fußspuren	足跡	あしあと
+Entfernt sein	離れる	はなれる
+... entlang		…伝い		づたい
+Dach	屋根	やね
+Eigentümlich	特殊（な）	とくしゅ
+Bauweise	構造	こうぞう
+Zweifel erwecken	怪しまれる		あやしまれる
+aktiv sein, sich bewegen	動き回る	うごきまわる
+Person	人物	じんぶつ
+nur		唯	ただ
+geben (höfl)	給う	たまう
+was in aller Welt	一体	いったい
+aufhören, aufgeben	止す		よす
+Witz	冗談	じょうだん
+Schauspiel	芝居	しばい
+(ugs) Beweis	ネタ
+(ugs) ans Tageslicht kommen		ばれる
+Hausherr	旦那	だんな
+Inspektor Megure	目暮　警部	めぐれ　けいぶ
+Nachdenken über Wahrheit	観念	かんねん
+Hausarzt	主治医	しゅじい
+gestehen, äußern	吐く	はく
+entkommen lassen	逃がす	にがす
+schnell gehen	さっさと歩く		さっさとあるく
+Danke!　(von älteren Männern)	済まん	すまん
+Auftrag, Bitte	依頼	いらい
+Heldentat, Leistung		手柄	てがら
+wirklich, gerade als ...	まさに
+Messias		救世主	きゅうせいしゅ
+Teitan　Oberschule	帝丹高校		ていたんこうこう
+eine wichtige Rolle spielen	活躍する	かつやくする
+Ursache, Schuld	所為	せい
+Talent	腕	うで
+Mannschaftskapitän	主将	しゅしょう
+Wie zu erwarten	流石	さすが
+um diese Zeit	今頃	いまごろ
+staatlich	国立	こくりつ
+ich habe gehört, dass	…だって
+sportliche Fähigkeit	運動神経		うんどうしんけい
+Kendo	剣術	けんじゅつ
+"Kaltblütige Gelassenheit"	冷静沈着		れいせいちんちゃく
+überlaufen	溢れる	あふれる
+Intelligenz	知性	ちせい
+Bildung	教養	きょうよう
+Beobachtungsgabe	観察力	かんさつりょく
+Schlussfolgerungsvermögen	推理力	すいりりょく
+Etwas Einzigartiges		天下一品		てんかいっぴん
+darüber hinaus	おまけに
+gleiche Qualität	並	なみ
+zusammengestellt werden,\nvervollständigt werden		揃う		そろう
+Schlussfolgerung	推理	すいり
+übertragen	移る	うつる
+ordentlich	ちゃんと
+aussichtsreichster Kandidat	本命	ほんめい
+sich den Kopf zerbrechen,\nreduzieren	絞る		しぼる
+anstarrend	ジロジロ（見る）
+in etwas Stecken, sich in etwas Stürzen		突込む	つっこむ
+aufgeregt (sein)		わくわく（する）
+Plan, Taktik	策	さく
+taub machen, tricksen	ろうする
+in die Enge treiben	追い詰める	おいつめる
+Nervenkitzel	スリル
+angenehmes Gefühl, Entzücken	快感	かいかん
+Meisterschaft	優勝	ゆうしょう
+Assistent	助手	じょしゅ
+Händedruck	握手	あくしゅ
+Militärarzt	軍医	ぐんい
+durchschauen	見抜く	みぬく
+Bekannter	知り合い	しりあい
+Blase (an den Händen)	豆	まめ/マメ
+hoch gebogen sein	捲れる	めくれる
+Gelenk	付け根	つけね
+Barren (Sport)		平行棒	へいこうぼう
+charakteristisch	独特	どくとく
+Blauer Fleck	痣	あざ/アザ
+vernachlässigen		怠る		おこたる
+Beobachtung	観察	かんさつ
+Grundlage	基本	きほん
+Schwindel/Betrug	インチキ
+Hey! Pass bloß auf!	オイ　コラ！
+Einmischung	ちょっかい
+Wenn es recht ist	なんなら
+einladen (Geld)	奢る	おごる
+Kerl, Bursche	奴め	やつめ
+jemandem Gesellschaft leisten	付（き）合う	つきあう
+aus dem Weg!	どけ！
+Ungeklärt(heit)	迷宮入り	めいきゅういり
+einer nach dem anderen, ununterbrochen	次々	つぎつぎ
+Lösung	解決	かいけつ
+Fähigkeit, Talent	手並	てなみ
+anschauen, betrachten	拝見する	はいけんする
+Spur, Anzeichen	痕跡	こんせき
+so etwas, eine solche Sache	こういうこと
+Sachlage, Situation	状況	じょうきょう
+klar, deutlich, augenscheinlich	明らかに	あきらかに
+ausschließen	除外する	じょがいする
+Verdächtige(r)	容疑者	ようぎしゃ
+ganz in schwarz	黒ずくめ	くろずくめ
+Bewegung	身動き	みうごき
+Mord(tat)	殺害	さつがい
+... spielen	…ごっこ
+dieser Kerl, der da	此奴	こいつ
+gefrieren, festfrieren	凍りつく	こおりつく
+Gleichgültigkeit	平気	へいき
+glücklich	旨く	うまく
+Kriminalbeamter	刑事	けいじ
+Schneidewerkzeug	刃物	はもの
+abschneiden, amputieren	切断する	せつだんする
+Mordwaffe	凶器	きょうき
+absichtlich	態々	わざわざ
+Tuch	布	ぬの
+verstecken	隠す	かくす
+einwickeln	包む	くるむ
+zuvor, im Vorraus	予（め）	あらかじめ
+aufschlitzen, abschneiden, enthaupten	斬る	きる
+Stahl	鋼鉄	こうてつ
+Schlinge, Ring	輪	わ
+herablassen	おろす
+einklemmen	はさむ
+Öffnung, freier Spalt	すき間	すきま
+verschwinden, herauskommen	抜ける	ぬける
+vorbereiten	用意する	よういする
+Haken	フック
+Gerät	器具	きぐ
+anschließen, anlegen	取（り）付ける	とりつける
+ausstrecken, verlängern	伸ばす	のばす
+Vollendung	仕上げ	しあげ
+Spitze, Ende	先	さき
+aufhängen, überhängen	引（っ）掛ける	ひっかける
+wegblasen	吹（っ）飛ばす	ふっとばす
+Unsinn	出鱈目	でたらめ
+Beweis	証拠, 証明	しょうこ, しょうめい
+Perle	真珠	しんじゅ
+wahrscheinlich	恐らく	おそらく
+Turnen	体操	たいそう
+abgesehen von	兎も角	ともかく
+Empfindung, Sinneswahrnehmung	感覚	かんかく
+trainieren	鍛える	きたえる
+unverantwortlich	好い加減	いいかげん
+Trick	手口	てぐち
+Unschuld	シロ
+irgendwie, tatsächlich	如何にも	いかにも
+gerade als ..., unmittelbar danach	途端に	とたんに
+wer?	何者	なにもの
+in solch einer Weise	あんなに
+ungefähr	凡そ	およそ
+mit anderen Worten	つまり
+große Träne	大粒の涙	おおつぶのなみだ
+Spur	跡	あと
+unveränderlicher Beweis	動かぬ証拠	うごかぬしょうこ
+nur		限（り）	かぎり
+um die Liebe werben		愛し合う	あいしあう
+Schuld, Bestrafung	罪	つみ
+beschuldigen	被せる	かぶせる
+wie es scheint	どうやら
+Verbrechen	犯行	はんこう
+umherfliegen, zerstreuen	飛（び）散る	とびちる
+Abendsonne	夕日	ゆうひ
+bleich, blass	淡い		あわい
+genau wie, als wenn	まるで
+Tatort	現場	げんば
+sich an einen Anblick gewöhnen	見慣れる	みなれる
+verstümmelte Leichen	ばらばら死体	ばらばらしたい
+einholen, nachkommen	追いつく	おいつく
+ein für alle mal / nie wieder	これっきり
+Lass dir Zeit!	焦るなよ	あせるなよ
+Geschäft, Handel	取り引き	とりひき
+Zustandekommen, Abschluss	成立	せいりつ
+Pistole/Revolver	拳銃	けんじゅう
+Schmuggel	密輸	みつゆ
+man selbst	身	み
+Knirps	餓鬼	ガキ
+verfolgen	付ける	つける
+unverschämterweise tun	Grundform+やがる
+Knarre	チャカ
+herumlungern	うろつく
+<i>gaunersprache</i> Polizei/Bullen		察		さつ
+Lärm, Tumult	騒ぎ	さわぎ
+Entwicklung (einer neuen Sache)	開発	かいはつ
+wie du weißt, auf jeden Fall	何しろ	なにしろ
+Nachweis, Feststellung	検出	けんしゅつ
+Das perfekte Verbrechen	完全犯罪	かんぜんはんざい
+Kerl, Bursche	代物	しろもの
+versuchen, einen Versuch machen	試す	ためす
+Prototyp	試作品	しさくひん
+Tschüs!, Ade!	あばよ
+schmelzen, sich auflösen	溶ける	とける
+wirksam sein, funktionieren	効く	きく
+sich zusammenreißen	しっかりする
+günstig, viel versprechend, passend	好都合な	こうつごう
+Untat, Verbrechen	悪事	あくじ
+Leicht, ohne Anstrengung	軽々と	かるがる
+sich verwunden, verwundet sein	負傷する	ふしょうする
+ärztliches Behandlungszimmer	医務室	いむしつ
+Alter	年齢/年令	ねんれい
+Kleidung	服装	ふくそう
+zerstreuen, in Unordnung bringen	散（ら）かす	ちらかす
+aufspielen als ...	気取り	きどり
+Was ist los?	どうしたの
+<i>frauensprache</i> ob ...	かしら
+Lass es (gut) sein!	ほっとけ
+erpressen	強請る	ゆする
+Kollege	仲間	なかま
+Vermisstenmeldung	捜索願い		そうさくねがい
+schrumpfen	縮む	ちぢむ
+anvertrauen, in Obhut geben	預ける	あずける
+Zentrale, Hauptquartier	本部	ほんぶ
+Kinderkrippe/Tagesstätte	託児所	たくじじょ
+suchen, fahnden	捜す	さがす
+ertragen, aushalten	堪る	たまる
+ausgehen, weggehen	外出する	がいしゅつする
+Abendessen	晩飯	ばんめし
+Rotzbengel	くそがき
+Mitleid	情（け）	なさけ
+Professor Agasa	阿笠　博士	あがさ　はかせ
+Verwandter	親戚	しんせき
+exzentrisch, wunderlich, seltsam	風変わりな	ふうがわりな
+Genie	天才	てんさい
+Muttermal	黶	ほくろ
+überall herumerzählen	言い触らす	いいふらす
+Bengel	小僧	こぞう
+ziemlich, recht, verhältnismäßig	可成	かなり
+Nass werden	濡れる	ぬれる
+Schmutz		泥	どろ
+abschütteln, aussondern	撥ねる	はねる
+Nachbarschaft, Nähe	近辺	きんぺん
+im Bau befindlich	工事中の	こうじちゅうの
+Sonderanfertigung	特製	とくせい
+elementar, grundlegend	初歩的	しょほてき
+unverzüglich, vorübergehend/vorerst	取り敢えず	とりあえず
+verschließen	塞ぐ	ふさぐ
+unvollendet	未完成の	みかんせいの
+Wirkung, Effekt	作用	さよう
+verrückt, wahnsinning	無茶	むちゃ
+Komponente, Ingredienz	成分	せいぶん
+ausfindig machen, ermitteln	突（き）止める	つきとめる
+Leben	命	いのち
+lauern, anvisieren, abpassen	狙う	ねらう
+Lebensgefahr	危害	きがい
+erreichen, sich erstrecken, sich ausdehnen	及ぶ	およぶ
+auf keinen Fall, niemals	決して	けっして
+verschwinden, sich verstecken	隠れる	かくれる
+unverändert, wie immer	相変（わ）らず	あいかわらず
+umgeben	囲む	かこむ
+heranwachsen, aufwachsen	育つ		そだつ
+Verkleidung	変装	へんそう
+das Gesicht zuwenden, entgegensehen	向く	むく
+leicht verlegene Person	照（れ）屋	てれや
+Brust/Brüste	胸	むね
+akzeptieren, auf sich nehmen	引（き）受ける	ひきうける
+früher oder später	いずれ
+ein und ausgehen		出入（り）	でいり
+zuallererst	真っ先に	まっさきに
+Verdacht schöpfen	疑う	うたがう
+plötzlich, unvermittelt	行き成り	いきなり
+außerordentlich, sehr, reichlich	たっぷり
+Ernstfall	いざという時	とき
+Vertrauen, Verlass	頼り	たより
+Mah-jongg	麻雀 	マージャン
+Grundstück, Anwesen, Residenz	屋敷	やしき
+(ugs) groß, riesig, gigantisch	でっかい
+schnell fahren, beschleunigen	飛（ば）す
+(Kanji) sich verirren	迷	めい
+eigenmächtig	勝手に	かってに
+in Ordnung bringen, einordnen, wiederherstellen	整理する	せいりする
+Ausgeschlossener	仲間外れ	なかまはずれ
+Der ganze Körper	全身	ぜんしん
+Verwalter	執事	しつじ
+Augenzeuge	目撃者	もくげきしゃ
+Ihre Tochter, Mädchen	お嬢様	おじょうさま
+Lage, Situation, Umstände	様子	ようす
+sorgen für ..., sich kümmern um ...		面倒を見る	めんどうをみる
+Gewohnheit	癖	くせ
+plötzlich, unvermittelt	突然	とつぜん
+Besonderheit	特徴	とくちょう
+entführen, rauben	攫う/掠う	さらう
+verfolgen	追う	おう
+schreien	叫ぶ	さけぶ
+Forderung	要求	ようきゅう
+Werk, Handlung	仕業	しわざ
+gerade erst, eben jetzt		ついさっき
+gebraucht (im Sinne von Second-Hand)	使用済み	しようずみ
+Ahnung, Mutmaßung	心当たり	こころあたり
+Nutzen, Vorteil, Profit	得	とく
+neben, in der Nähe, bei, an		側に/傍に	そばに
+aus den Augen lassen	目を離す	めをはなす
+Anerkennung	感心	かんしん
+klar sein	冴える	さえる
+Gestalt	姿	すがた
+Unvorsichtig	不用意	ふようい
+Sonderbar, seltsam	妙	みょう
+jemanden totschlagen	ぶっ殺す	ぶっころす
+lesbar sein 	読める 	よめる
+Stümper	へぼ
+rollen	転がる		ころがる
+selbstverständlich	当（た）り前 	あたりまえ
+fremder, anderer	よその
+Wachhund	番犬 	ばんけん
+hervorragend, ausgezeichnet		優秀な 	ゆうしゅうな
+etwas die ganze Zeit tun	捲る 	まくる
+Flucht	逃走	とうそう
+Art und Weise	調子	ちょうし
+Zeugenaussage	証言	しょうげん
+zweifelhaft	あやふやな
+du \n<i>(in der modernen japan. Sprache von Männern benutzte schwer beleidigende Anrede; in der Edo-Zeit war es eine höfliche Anrede)</i>	貴様 	きさま
+Entschuldigung, Rechtfertigung	申し訳	もうしわけ
+du; Mensch!; Verflixt! (Ausruf bei Wut)	己 	おのれ
+Schornstein	煙突	えんとつ
+primitiv, naiv	単純な	たんじゅんな
+Gefangennahme	監禁	かんきん
+brutal, grausam	凶悪な	きょうあく
+verlängern (zeitlich)	延ばす	のばす
+Verhalten	真似	まね
+Speicher, Lagerhaus	倉庫 	そうこ
+Identifizierung, Bestimmung	特定	とくてい
+sich übereilen, ungeduldig werden,\nsich beunruhigen	焦る	あせる
+gründlich	虱潰しに	しらみつぶしに
+Nachbarschaft, Nähe	辺り	あたり
+(ugs) öffentliches Badehaus		銭湯 	せんとう
+Blickwinkel	角度	かくど
+Zu Ihrer Information	一得けど	いっとくけど
+Anzeichen, Andeutung	気配	けはい
+wohlbehalten, unverletzt	無事な	ぶじな
+Geschäftsverhandlung	商談	しょうだん
+Aufgabe, Rolle, Pflicht	役目 	やくめ
+Red keinen Scheiß!,\nHälst du mich für blöd?	なめんなよ。
+erledigen	始末する	しまつする
+langsam, schrittweise, nach und nach	そろそろ
+den Gnadenstoß geben	止めを刺す	とどめをさす
+jemanden fertig machen	遣っ付ける	やっつける
+platzen, bersten	弾ける 	はじける
+Gelassenheit	へっちゃら
+bedeckt mit ...		…だらけ
+zufällig	たまたま
+sorglos, bequem	のんびり
+sofort, schnell	とっとと
+sich kümmern	構う 	かまう
+Plan, Projekt	計画 	けいかく
+Zwang	無理矢理 	むりやり
+vorgetäuschte Handlung	狂言	きょうげん
+dies bedeutet, dass …	…というわけだ
+unentschuldbar	許し難い 	ゆるしがたい
+trotz, obwohl	…とはいえ
+Strafe	罰 	ばつ
+auch wenn ...	…として
+unverzüglich, sofort	直（ち）に 	ただちに
+Vorkehrungen treffen	手配する 	てはいする
+wollen	…がる
+jedenfalls	ともあれ
+Die Sache ist erledigt	一件落着。	いっけんらくちゃく
+Vorstand, Geschäftsleitung	重役 	じゅうやく
+Aktionärsversammlung	株主総会 	かぶぬしそうかい
+freilassen	放す 	はなす
+lieb gewinnen, hängen an	懐く	なつく
+verkürzen	短縮する 	たんしゅくする
+(Himmels)gabe	賜物 	たまもの
+irgendwann, ein andermal, noch einmal	後日 	ごじつ
+auskundschaften	探る 	さぐる
+letzten Endes	結局 	けっきょく
+geschweige denn ...	ましてや
+Standpunkt, Lage	立場 	たちば
+(ugs) Gegenteil	あべこべ
+bis jetzt, noch [nicht] (schriftspr.)	未だ	いまだ
+sich verkriechen, sich einschleichen	潜り込む	もぐりこむ
+besagt, betreffend	当	とう
+alter Mann	親仁	おやじ
+Vorbild	見本	みほん
+Tüchtigkeit	敏腕 	びんわん
+Geduld	辛抱	しんぼう
+verschollen	行方不明の 	ゆくえふめいの
+voreilig sein	早まる	はやまる
+unnötig	無用 	むよう
+unerwartet, zufällig	ひょっこり
+inzwischen, mittlerweile	其(の)内	そのうち
+belügen	誤魔化す 	ごまかす
+etwas erfolgreich verbergen können	隠しおおせる 	かくしおおせる
+Verhalten, Benehmen	素振（り）	そぶり
+auf jeden Fall, jedenfalls	兎に角 	とにかく
+Nachforschung, Ermittlung	捜査 	そうさ
+Schmetterling	蝶 	ちょう
+Stimmwechsel	変声 	へんせい
+leicht, mühelos	ばっちり
+überlassen, anvertrauen	任す	まかす
+nett, liebenswürdig	折角 	せっかく
+Schatten	陰 	かげ
+bilden, trainieren, aufziehen,\njemanden ausgeben als ...	仕立てる 	したてる
+sehr viel, bestimmt	万々 	ばんばん
+neu anfangen	出直す 	でなおす
+Videoband(aufnahme)	録画 	ろくが
+überwachen	監視する 	かんしする
+Wochenmagazin	週刊誌 	しゅうかんし
+Journalist, Reporter	記者 	きしゃ
+Handlung, Verhalten	行動 	こうどう
+Unheimlich		不気味な 	ぶきみな
+Position, Standort	位置 	いち
+heimliche Fotoaufnahme	隠し撮り 	かくしどり
+Schweigen	無言 	むごん
+(ugs.) dauernd, ständig	しょっちゅう
+richtig, gut, ordentlich	碌に 	ろくに
+Vertraulich, geheim	内密に 	ないみつに
+Untersuchung, Erkundung	調査	ちょうさ
+polizeiliche Angelegenheit	警察沙汰 	けいさつざた
+mitteilen, weitersagen	申(し)送る 	もうしおくる
+einwilligen, einverstanden sein	承知する 	しょうちする
+strikte Geheimhaltung	極秘 	ごくひ
+berühren, anfassen	触れる 	ふれる
+Aussicht	眺め 	ながめ
+mit Blut beschmieren	血塗る	ちぬる
+Massenmedien	マスコミ
+Geheimnis	内緒	ないしょ
+beängstigend	恐ろしい 	おそろしい
+zufällig anwesend sein	居合(わ)せる 	いあわせる
+ausgerechnet	選りに選って 	よりによって
+Herrn	…殿 	…どの
+sehnlich vermisst, wehmütig zurückblickend	懐かしい	なつかしい
+zahlreiche	数々 	かずかず
+Untergebener	部下 	ぶか
+wenig	わずか
+verwüsten	荒(ら)す 	あらす
+vermuteter Todeszeitpunkt	死亡推定時刻 	しぼうすいていじこく
+abweichen 	狂う 	くるう
+Erfolgreich	効果的 	こうかてき
+Todesursache	死因 	しいん
+großes Küchenmesser	包丁	ほうちょう
+sofortiger Tod	即死 	そくし
+Fingerabdruck	指紋 	しもん
+natürlich	当然 	とうぜん
+wieder erkennen, vom Sehen kennen	見覚えがある 	みおぼえがある
+rutschen	滑る 	すべる
+wegnehmen	抜き取る 	ぬきとる
+jmds Identität/Personalien	身元 	みもと
+Eigentümer	主 	ぬし
+Auftraggeber	依頼主 	いらいぬし
+Zweitschlüssel	合(い)鍵 	あいかぎ
+abgelehnt werden, einen Korb bekommen	振られる 	ふられる
+Rache, Vergeltung	腹癒(せ) 	はらいせ
+Begründung	根拠	こんきょ
+lieblich, charmant, hübsch	可憐な 	かれんな
+Halunke	手前 	てめえ
+Garderobe	楽屋 	がくや
+sich jmds Groll einhandeln	恨みを買う 	うらみをかう
+gerade, ausgerechnet,\nder letzte (mit Verneinung)	限って 	かぎって
+übersehen	全貌を掴む 	ぜんぼうをつかむ
+Wichtigkeit, Belang	重要 	じゅうよう
+alles Mögliche, alle Sorten	ありとあらゆる
+derselbe Jahrgang/Zeitraum	同期 	どうき
+Hauptrolle	主役 	しゅやく
+übel nehmen, einen Groll hegen	恨む	うらむ
+Gutachter, Zeuge	参考人 	さんこうにん
+Unmittelbarkeit	直接 	ちょくせつ
+Motiv	動機 	どうき
+merkwürdig	奇妙な 	きみょうな
+Szene	駒 	こま
+Logik, Vernunft	筋 	すじ
+Einbruch	侵入 	しんにゅう
+Jetzt reicht's aber!	しつこいわね。
+Sturzflug	急降下 	きゅうこうか
+stehlen	盗む 	ぬすむ
+angreifen, überfallen, zufügen	襲う 	おそう
+aus heiterem Himmel	急に 	きゅうに
+Widerstand leisten	抵抗する 	ていこうする
+Belästigung	嫌がらせ 	いやがらせ
+hineinschleichen	忍び込む 	しのびこむ
+in Todesangst	必死で 	ひっしで
+Kraft, Energie	勢(い) 	いきおい
+identifiziert werden	割れる 	われる
+Arbeit, Dienst(leistung)	勤務 	きんむ
+Gegenwart	現在 	げんざい
+regelmäßig gehen, besuchen	通う 	かよう
+Zufall	偶然 	ぐうぜん
+(ugs.) Freund, Geliebter	彼氏 	かれし
+Abschluss, Abrechnung	清算 	せいさん
+Treffen, Zusammenkunft	寄(り) 	より
+sich die Aufmerksamkeit (von einer Frau) erzwingen	しつこく言い寄る	しつこくいいよる
+verbieten über etwas zu reden	口止めする 	くちどめする
+zu der Zeit, bei der Gelegenheit	際に 	さいに
+Mulde, Beule, Aushöhlung	凹み 	へこみ
+Platz zu Füßen	足元 	あしもと
+sich lösen	解ける 	とける
+unglücklich, unheilvoll	不幸な 	ふこうな
+Missverständnis, Irrtum	誤解 	ごかい
+jemandem nachlaufen/beschatten	付(き)纏う 	つきまとう
+sich verstecken	潜む 	ひそむ
+Zeitpunkt, Gelegenheit	折 	おり
+auf einmal, plötzlich	ばったり
+Wortgefecht, Streit	口論 	こうろん
+zu guter Letzt, schließlich	挙（げ）句 	あげく
+den Mund halten	黙る 	だまる
+Unschuld	無実 	むじつ
+Anlass, Impuls	はずみ
+Kontakt	接触 	せっしょく
+Schlussfolgerung	推測 	すいそく
+psychisch, mental	心理的な 	しんりてきな
+bestätigen, bezeugen, garantieren	裏付ける 	うらづける
+Mord	他殺 	たさつ
+jemand selbst	本人 	ほんにん
+Absicht	狙い	ねらい
+übereinstimmen	一致する 	いっちする
+Griff	柄 	え
+(schriftspr.) spielen, tricksen	弄する 	ろうする
+halten, greifen	握る 	にぎる
+im Nu	とっさに
+sicher, ohne Zweifel	てっきり
+Kamm	櫛 	くし
+bemerken, wahrnehmen	気付く 	きづく
+unbekannt, fremd	見知らぬ 	みしらぬ
+Erscheinen, Auftreten	出現 	しゅつげん
+überrascht sein	驚く 	おどろく
+Verhalten, Benehmen	態度 	たいど
+entsetzt, wie vom Blitz getroffen	愕然 	がくぜん
+Liebe, Zuneigung	愛情 	あいじょう
+Verzweiflung, Hoffnungslosigkeit	絶望 	ぜつぼう
+Hass	憎しみ 	にくしみ
+Schmerz, Qual	苦しみ 	くるしみ
+Leben, Existenz	生命 	せいめい
+aufgeben	絶つ	たつ
+grübeln, brüten, sich mit etwas quälen	思い詰める 	おもいつめる
+wenigstens	切て 	せめて
+sich überlappen	重なり合う 	かさなりあう
+Tragödie	悲劇 	ひげき
+Anklage	訴え 	うったえ
+machen, vorführen, darstellen	演じる 	えんじる
+um etwas bitten, etwas verlangen	求める 	もとめる
+Last, Umständlichkeit	厄介 	やっかい
