@@ -2,7 +2,7 @@
 
 #include "main.h"
 
-#include "Vokabeltrainer.h"
+#include "Trainer.h"
 
 ushort back_buffer[256*192*2];
 
@@ -16,7 +16,7 @@ void sleep(int milliseconds)
 }
 
 int main(int argc, char **argv) {
-    Vokabeltrainer v;
+    Trainer v;
 
     while(1) {
         scanKeys();

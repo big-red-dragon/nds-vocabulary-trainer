@@ -1,4 +1,4 @@
-#include "Vokabeltrainer.h"
+#include "Trainer.h"
 #include <nds.h>
 #include <fat.h>
 #include <time.h>
@@ -12,14 +12,12 @@
 const uchar buttonWidth = box_bin[0];
 const uchar buttonHeight = box_bin[1];
 
-#define NUM_ORDER 55
-
-Vokabeltrainer::Vokabeltrainer()
+Trainer::Trainer()
 {
     init();
 }
 
-void Vokabeltrainer::init()
+void Trainer::init()
 {
     lcdMainOnBottom();
     bottomScreen = true;
@@ -46,7 +44,7 @@ void Vokabeltrainer::init()
     showCurrentVoc();
 }
 
-void Vokabeltrainer::onKeyEvent(uint k)
+void Trainer::onKeyEvent(uint k)
 {
     if(k & KEY_LEFT) {
         swapDisplays();
@@ -77,7 +75,7 @@ void Vokabeltrainer::onKeyEvent(uint k)
         save();
 }
 
-void Vokabeltrainer::selectAnswer(uchar ans)
+void Trainer::selectAnswer(uchar ans)
 {
     drawButton(ans);
     renderBackBuffer();
@@ -115,7 +113,7 @@ void Vokabeltrainer::selectAnswer(uchar ans)
     showCurrentVoc();
 }
 
-void Vokabeltrainer::showCurrentVoc()
+void Trainer::showCurrentVoc()
 {
     showStatistics();
     answerStates[0] = STATE_NORMAL;
@@ -172,7 +170,7 @@ void Vokabeltrainer::showCurrentVoc()
     renderBackBuffer();
 }
 
-void Vokabeltrainer::makeSeed()
+void Trainer::makeSeed()
 {
     time_t t = time(0);
     uint seed = t;
@@ -182,7 +180,7 @@ void Vokabeltrainer::makeSeed()
     srand(seed);
 }
 
-Vokabeltrainer::VocEntry Vokabeltrainer::getNewVoc()
+Trainer::VocEntry Trainer::getNewVoc()
 {
     VocEntry entry;
     uchar level = -1;
@@ -257,7 +255,7 @@ Vokabeltrainer::VocEntry Vokabeltrainer::getNewVoc()
     return entry;
 }
 
-bool Vokabeltrainer::isLevelUnlocked(uchar lvl)
+bool Trainer::isLevelUnlocked(uchar lvl)
 {
     if(numVocsLevel[lvl] == 0)
         return false;
@@ -281,7 +279,7 @@ bool Vokabeltrainer::isLevelUnlocked(uchar lvl)
     return true;
 }
 
-void Vokabeltrainer::setAnswers(ushort ansId)
+void Trainer::setAnswers(ushort ansId)
 {
     uchar posTruth = rand() % 4;
     for(uchar p = 0; p < 4; p++) {
@@ -313,7 +311,7 @@ void noMoreVocs() {
 
 }
 
-void Vokabeltrainer::loadSave()
+void Trainer::loadSave()
 {
     TyFile saveFile(VOCNAME ".sav");
     if(!saveFile.open("rb")) {
@@ -356,7 +354,7 @@ void Vokabeltrainer::loadSave()
     }
 }
 
-void Vokabeltrainer::createNewSave()
+void Trainer::createNewSave()
 {
     // reset data
 
@@ -393,7 +391,7 @@ void Vokabeltrainer::createNewSave()
     }
 }
 
-void Vokabeltrainer::editSave(ushort numVocs)
+void Trainer::editSave(ushort numVocs)
 {
     if(numVocs < vdb.numEntries) {
         // add the vocs
@@ -410,7 +408,7 @@ void Vokabeltrainer::editSave(ushort numVocs)
     }
 }
 
-void Vokabeltrainer::save()
+void Trainer::save()
 {
     if(saved)
         return;
@@ -442,7 +440,7 @@ void Vokabeltrainer::save()
     printf("Saved!\n");
 }
 
-void Vokabeltrainer::changeLevel(VocEntry &entry, LevelDirection dir)
+void Trainer::changeLevel(VocEntry &entry, LevelDirection dir)
 {
     int spos = entry.pos;
     int lvl = entry.level;
@@ -478,7 +476,7 @@ void Vokabeltrainer::changeLevel(VocEntry &entry, LevelDirection dir)
     }
 }
 
-void Vokabeltrainer::swapVoc(ushort pOld, ushort pNew)
+void Trainer::swapVoc(ushort pOld, ushort pNew)
 {
     if(pOld == pNew)
         return;
@@ -502,7 +500,7 @@ void Vokabeltrainer::swapVoc(ushort pOld, ushort pNew)
     sLevelPData[pNew] = tempLevelP;
 }
 
-void Vokabeltrainer::createInterface()
+void Trainer::createInterface()
 {
     uchar x = (256-buttonWidth)/2;
 
@@ -546,7 +544,7 @@ void Vokabeltrainer::createInterface()
     }
 }
 
-void Vokabeltrainer::drawButton(uchar p)
+void Trainer::drawButton(uchar p)
 {
     uchar x = (256-buttonWidth)/2;
     uchar y = 50 + p * 35;
@@ -558,14 +556,14 @@ void Vokabeltrainer::drawButton(uchar p)
     }
 }
 
-void Vokabeltrainer::drawQuestionBox(int id)
+void Trainer::drawQuestionBox(int id)
 {
     int y = 0;
     renderBox(y);
     drawEntry(id, y, 256, !mode, back_buffer);
 }
 
-void Vokabeltrainer::drawEntry(int id, int y, int w, bool front, ushort * buffer)
+void Trainer::drawEntry(int id, int y, int w, bool front, ushort * buffer)
 {
     if(front) {
         TyString str = vdb.getEntry(id, 0);
@@ -587,7 +585,7 @@ void Vokabeltrainer::drawEntry(int id, int y, int w, bool front, ushort * buffer
 
 /********* static functions *********/
 
-void Vokabeltrainer::renderBox(uchar y)
+void Trainer::renderBox(uchar y)
 {
     uchar width = box_bin[0];
     uchar x = (256-width)/2;
@@ -610,12 +608,12 @@ void Vokabeltrainer::renderBox(uchar y)
 }
 
 
-void Vokabeltrainer::renderBackground()
+void Trainer::renderBackground()
 {
     dmaCopyWords(0, background_bin, back_buffer, 256*192*2);
 }
 
-void Vokabeltrainer::renderBackBuffer()
+void Trainer::renderBackBuffer()
 {
     swiWaitForVBlank();
     for(int i = 0; i < 256*192; i++) {
@@ -623,7 +621,7 @@ void Vokabeltrainer::renderBackBuffer()
     }
 }
 
-void Vokabeltrainer::showStatistics()
+void Trainer::showStatistics()
 {
     swiWaitForVBlank();
     consoleClear();
@@ -635,12 +633,12 @@ void Vokabeltrainer::showStatistics()
     printf("Progress: %i%%\n", percent);
 }
 
-void Vokabeltrainer::showFinishScreen()
+void Trainer::showFinishScreen()
 {
     printf("You have FINISHED!!!\n");
 }
 
-void Vokabeltrainer::swapDisplays()
+void Trainer::swapDisplays()
 {
     bottomScreen = !bottomScreen;
     lcdSwap();

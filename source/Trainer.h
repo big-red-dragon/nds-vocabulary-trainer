@@ -1,5 +1,5 @@
-#ifndef VOKABELTRAINER_H
-#define VOKABELTRAINER_H
+#ifndef Trainer_H
+#define Trainer_H
 
 #include "defines.h"
 #include "VocDB.h"
@@ -24,10 +24,10 @@
 
 extern const ushort VocOrder[];
 
-class Vokabeltrainer
+class Trainer
 {
 public:
-    Vokabeltrainer();
+    Trainer();
 
     void onKeyEvent(uint k);
 
@@ -104,4 +104,4 @@ private:
     static void renderBackBuffer();
 };
 
-#endif // VOKABELTRAINER_H
+#endif // Trainer_H
